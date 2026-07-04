@@ -1,0 +1,6 @@
+{
+  "name": "Al Saqer Al Thahabi Visa Services",
+  "description": "Professional travel and visa consultation for global destinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
